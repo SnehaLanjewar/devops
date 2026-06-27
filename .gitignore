@@ -1,0 +1,5 @@
+Terraform/Day-1/ec2-instance-creation/.terraform/*
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+Terraform/Day-1/ec2-instance-creation/.terraform.lock.hcl
