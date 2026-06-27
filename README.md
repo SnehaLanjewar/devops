@@ -11,3 +11,4 @@ COntainers - portable way to bind multiple lib/dependencies into one.
 Host machine - instance of image is run
 Matrix of hell - each component in your app requires different lib/dependency to work on
 - after few days you have to upgrade one of the components then it becomes a challenge-networking.
+
